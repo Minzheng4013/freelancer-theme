@@ -1,11 +1,12 @@
 ---
 layout: default
-modal-id: 6
+title: Autio Book
+modal-id: 3
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Mobile Development
+description: Developed an Android Application that allows users to upload .txt files and convert them to Autiobook to listen. I Worked in a team of four in four one week sprint and managed project collaborations and issues through GitHub.
 ---
